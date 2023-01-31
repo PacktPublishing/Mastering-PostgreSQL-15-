@@ -1,4 +1,4 @@
-# Mastering-PostgreSQL-15-
+# Mastering-PostgreSQL-15
 
 <a href="https://www.amazon.in/dp/1803248343/ref=sr_1_1?crid=3T5WBS069FULM&keywords=mastering+postgresql+15&qid=1675152995&s=books&sprefix=mastering+postgresql+1%2Cstripbooks%2C354&sr=1-1" alt="Mastering PostgreSQL 15" height="256px" align="right"></a>
 
