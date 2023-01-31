@@ -1,8 +1,8 @@
 # Mastering-PostgreSQL-15-
 
-<a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="Mastering POstgreSQL 15" height="256px" align="right"></a>
+<a href="https://www.amazon.in/dp/1803248343/ref=sr_1_1?crid=3T5WBS069FULM&keywords=mastering+postgresql+15&qid=1675152995&s=books&sprefix=mastering+postgresql+1%2Cstripbooks%2C354&sr=1-1" alt="Mastering PostgreSQL 15" height="256px" align="right"></a>
 
-This is the code repository for [Mastering PostgreSQL 15](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Mastering PostgreSQL 15](https://www.amazon.in/dp/1803248343/ref=sr_1_1?crid=3T5WBS069FULM&keywords=mastering+postgresql+15&qid=1675152995&s=books&sprefix=mastering+postgresql+1%2Cstripbooks%2C354&sr=1-1), published by Packt.
 
 **Advanced techniques to build and manage scalable, reliable, and fault-tolerant database applications**
 
