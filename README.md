@@ -28,7 +28,12 @@ All of the code is organized into folders.
 
 The code will look like the following:
 ```
-<Any code block from the book>
+test=# \h CALL
+Command: CALL
+Description: invoke a procedure
+Syntax:
+CALL name ( [ argument ] [, ...] )
+URL: https://www.postgresql.org/docs/15/sql-call.html
 
 ```
 
@@ -43,13 +48,12 @@ With the following software and hardware list you can run all code files present
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
 |  		 1-13| PostgreSQL 15   							                                            			  | Windows, Mac OS X, and Linux (Any) |
 |       1-13| pgAdmin  4                                                                              |                             |
-|       1-13| SQl Shell                                    |                                                                             |
+|       1-13| SQL Shell                                    |                                                                             |
 
 ### Related products <Other books you may enjoy>
-* <Book name #1 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* AWS Certified Database - Specialty (DBS-C01) Certification Guide [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/1803243104)
 
-* <Book name #2 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* PostgreSQL 14 Administration Cookbook [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/1803248971)
 
 ## Get to Know the Author
 **Hans-Jürgen Schönig** has 20 years’ experience with PostgreSQL. He is the CEO of a PostgreSQL consulting and support company called CYBERTEC PostgreSQL International GmbH. It has successfully served countless customers around the globe. Before founding CYBERTEC PostgreSQL International GmbH in 2000, he worked as a database developer at a private research company that focused on the Austrian labor market, where he primarily worked on data mining and forecast models. He has also written several books about PostgreSQL.	
-
