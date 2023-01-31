@@ -34,7 +34,6 @@ Description: invoke a procedure
 Syntax:
 CALL name ( [ argument ] [, ...] )
 URL: https://www.postgresql.org/docs/15/sql-call.html
-
 ```
 
 **Following is what you need for this book:**
